@@ -139,13 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="WinMain.cpp" />
-    <ClCompile Include="wndProc.cpp" />
+    <ClCompile Include="MiniMetro.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
-    <ClInclude Include="WinMain.h" />
-    <ClInclude Include="wndProc.h" />
+    <ClInclude Include="MiniMetro.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Resource.rc" />
